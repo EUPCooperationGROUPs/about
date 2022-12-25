@@ -1,5 +1,7 @@
 # Grown your business with digital transformation consultancies
 
+EUP Cooperation is one of innovation technology in Vietnam, base on EUP Japan in Toyama, Tokyo.
+We are lead digital cloud, software development, Cloud Computing, we are expanding go Education SmartWork application & CRM Odoo system.
 ### About EUPCooperationGROUPs
 
 ![alt text](https://avatars.githubusercontent.com/u/121398823?s=96&v=4)
