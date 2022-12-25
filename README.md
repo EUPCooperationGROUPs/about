@@ -1,5 +1,9 @@
 # Grown your business with digital transformation consultancies
 
+### About EUPCooperationGROUPs
+
+![alt text](https://avatars.githubusercontent.com/u/121398823?s=96&v=4)
+
 -------
 デジタル トランスフォーメーションのコンサルタント会社でビジネスを成長させる
 * AWS/Azure/GCP/ホスティングコンサルティング
@@ -13,7 +17,7 @@
 * スタートアップ事業開発の構築コンサルティング
 * コンサルティング eコマース/フィンテック/教育
 
-About EUPCooperationGROUPs
+------------------------------------------------------------------------------
 
 * Develop your digital transformation business (app/data/art/web/social networking)
 * AWS/Azure/GCP/Hosting consultancy
@@ -27,20 +31,14 @@ About EUPCooperationGROUPs
 * Consultancy for building startup business development
 * Consultancy eCommerce/Fintech/Education
 
-
-Contact mail for work!
-e: eupgroups@gmail.com
-w: http://www.eupgroups.com (on-build)
-
-Ducmy,
+Ducmy,<br/>
 Project Manager EUP Cooperation GROUPS
 
-![alt text](https://avatars.githubusercontent.com/u/121398823?s=96&v=4)
+Contact mail for work!<br/>
+e: eupgroups@gmail.com <br/>
+w: http://www.eupgroups.com (on-build)
 
-Fanpage:
-
-https://fb.me/EUPCooperationGROUP/
-
-https://instagram.com/eup_groups/
-
+Fan pages: <br/>
+https://fb.me/EUPCooperationGROUP/ <br/>
+https://instagram.com/eup_groups/ <br/>
 https://linkedin.com/company/eup-groups/
