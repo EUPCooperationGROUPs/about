@@ -57,8 +57,8 @@ Việt Nam <br/>
 
 New offfical will open at 15/3/2022
 62 Trần Quang Khải, Tân Định, Quận 1, Thành phố Hồ Chí Minh 70000
-https://www.google.com.vn/search?q=dreamplex+tr%E1%BA%A7n+quang+kh%E1%BA%A3i&client=safari&hl=vi-vn&sxsrf=ALiCzsZzoAgVlPFB8Hdz7d_F_Jtx5ESciA%3A1672021628393&ei=fAapY5DRF5Kuz7sPlImW6As&oq=dreamplex+tr&gs_lcp=ChNtb2JpbGUtZ3dzLXdpei1zZXJwEAEYADIECCMQJzINCC4QgAQQxwEQrwEQEzIICAAQFhAeEBMyCAgAEBYQHhATMgUIIRCgATIFCCEQoAEyBQghEKABMgUIIRCgAToHCCMQsAMQJzoKCAAQRxDWBBCwAzoHCAAQsAMQQzoSCC4QxwEQrwEQyAMQsAMQQxgBOgsILhCABBDHARCvAToLCC4QrwEQxwEQgAQ6BQgAEIAEOgQIABBDOggIABCABBDLAToGCAAQFhAeSgQIQRgAUJ0DWMIGYPAVaABwAHgAgAGEAYgBygOSAQMxLjOYAQCgAQHIARHAAQHaAQQIARgI&sclient=mobile-gws-wiz-serp#
-
+Trần Quang Khải<br/>
+https://maps.app.goo.gl/WoKwDoF7g6obzzxC7?g_st=ic
 Vp2:<br/>
 36 Nguyen Cu Trinh, PAn Khanh, Ninh Kieu, Can Tho
 
